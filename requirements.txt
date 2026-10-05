@@ -1,8 +1,7 @@
-requests
-beautifulsoup4
-googlesearch-python
-python-dotenv
-crawl4ai
-instructor 
-pydantic 
-openai
+requests==2.34.2
+crawl4ai==0.9.3
+pydantic==2.13.5
+instructor==1.17.0
+openai==3.3.0
+dateparser==1.4.3
+python-dotenv==1.2.3
