@@ -84,6 +84,6 @@ python main.py
 
 This searches, filters, scrapes, and extracts, then saves everything to `results.json` in the project root.
 
-Want to see what it produces without running it yourself? Check [`results.json`](./sample_results.json) for a real output from a past run.
+Want to see what it produces without running it yourself? Check [`results.json`](./results.json) for a real output from a past run.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
