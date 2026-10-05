@@ -1,0 +1,17 @@
+# Environment variables / secrets — never commit this
+.env
+
+# Python cache/bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated output from running the pipeline
+results.json
+
+# OS/editor junk
+.DS_Store
+.vscode/
