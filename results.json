@@ -1,0 +1,126 @@
+{
+  "generated_at": "2026-10-05T00:49:30.204963",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://youngarts.org/apply/",
+      "title": "2027 YoungArts Application",
+      "deadline": "Tuesday, October 6, 2026",
+      "deadline_needs_review": false,
+      "age_requirement": "15-18 as of December 1, 2026",
+      "eligibility": "15-18 years old, U.S. citizen or permanent resident, grades 10-12 as of December 1, 2026",
+      "mediums_accepted": [
+        "Classical Music",
+        "Dance",
+        "Design",
+        "Film",
+        "Jazz",
+        "Photography",
+        "Theater",
+        "Visual Arts",
+        "Voice",
+        "Writing"
+      ],
+      "entry_fee": "Not specified",
+      "_seconds": 64.3
+    },
+    {
+      "url": "https://artshow.com/juriedshows/",
+      "title": "TERAVARNA Abstract Art Competition",
+      "deadline": "October 15, 2026",
+      "deadline_needs_review": false,
+      "age_requirement": "None",
+      "eligibility": "Up to $5,000 in awards, a 6-month ARTSY membership (1st Place, Runner-Up, and Merit), and a chance to participate in the VR exhibition",
+      "mediums_accepted": [
+        "Abstract",
+        "Figurative",
+        "2D",
+        "3D",
+        "All media",
+        "Striking forms",
+        "Rich textures",
+        "Bold color play"
+      ],
+      "entry_fee": "$20 per artwork",
+      "_seconds": 194.7
+    },
+    {
+      "url": "https://artdeadline.com/",
+      "title": "Armature: A Call for Works About Structure",
+      "deadline": "Not specified",
+      "deadline_needs_review": false,
+      "age_requirement": "None",
+      "eligibility": "Open to all artists",
+      "mediums_accepted": [
+        "Painting",
+        "Sculpture",
+        "Mixed Media",
+        "Photography",
+        "Video",
+        "Installation"
+      ],
+      "entry_fee": "Not specified",
+      "_seconds": 113.2
+    },
+    {
+      "url": "https://artcall.org/calls",
+      "title": "MOCA GA Gathered VII",
+      "deadline": "Nov 2, 2026, 12:01:00 AM",
+      "deadline_needs_review": false,
+      "age_requirement": "None",
+      "eligibility": "Georgia artists",
+      "mediums_accepted": [
+        "Painting",
+        "Sculpture",
+        "Photography"
+      ],
+      "entry_fee": "$35.00",
+      "_seconds": 84.5
+    },
+    {
+      "url": "https://www.commarts.com/competition/2027-illustration",
+      "title": "2027 Illustration Competition",
+      "deadline": "January 08, 2027",
+      "deadline_needs_review": false,
+      "age_requirement": "None",
+      "eligibility": "Individuals, no residency requirement",
+      "mediums_accepted": [
+        "Illustration"
+      ],
+      "entry_fee": "Free",
+      "_seconds": 104.3
+    },
+    {
+      "url": "https://department.va.gov/veteran-sports/national-veterans-creative-arts-festival/",
+      "title": "National Veterans Creative Arts Festival",
+      "deadline": "February 1 – March 15, 2027",
+      "deadline_needs_review": false,
+      "age_requirement": "None",
+      "eligibility": "U.S. military Veterans who are eligible for VA health care and enrolled in the VA health care system prior to submission of their entry/application",
+      "mediums_accepted": [
+        "2D and 3D",
+        "Solo, Partner, and Group",
+        "Poetry and Prose",
+        "Existing Content and Original Creation",
+        "Music Solo and Music Group"
+      ],
+      "entry_fee": "Not specified",
+      "_seconds": 75.1
+    },
+    {
+      "url": "https://www.facebook.com/YoungArtsFoundation/posts/we-believe-artists-like-you-can-change-the-world-take-the-first-step-the-2027-yo/1467949812034160/",
+      "title": "The 2027 YoungArts competition is officially OPEN!",
+      "deadline": "Tuesday, October 6, 2026",
+      "deadline_needs_review": false,
+      "age_requirement": "15-18 years old or in grades 10-12",
+      "eligibility": "Georgia residents, grades 10-12",
+      "mediums_accepted": [
+        "Visual",
+        "Literary",
+        "Performing"
+      ],
+      "entry_fee": "Not specified",
+      "_seconds": 152.2
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# Environment variables / secrets — never commit this
+# Environment variables
 .env
 
 # Python cache/bytecode
@@ -8,9 +8,6 @@ __pycache__/
 # Virtual environments
 venv/
 .venv/
-
-# Generated output from running the pipeline
-results.json
 
 # OS/editor junk
 .DS_Store
